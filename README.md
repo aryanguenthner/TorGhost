@@ -16,7 +16,9 @@ This project was built independently and is **not affiliated** with the [Tor Pro
 ## Recommended way to install TorGhost
 
 Kali Terminal:
+
 sudo dpkg -i torghost-3.0.2-amd64.deb
+
 torghost -s
 
 Open firefox/chrome and confirm: https://ipleak.net
